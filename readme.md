@@ -9,6 +9,8 @@
 * setting svg image as background using absolute positioning in top, right corner.
 *  Made respinsive for different screen sizes.
 
+[Deployed Link](https://developer-landinng-page.netlify.app/)
+
 
 ![thumbnail](thumb.png)
 

@@ -7,10 +7,10 @@
 * Adding asset images.
 * Adding border radius.
 * setting svg image as background using absolute positioning in top, right corner.
+*  Made respinsive for different screen sizes.
 
 
-![thumbnail](thumb1.png)
-![thumbnail](thumb2.png)
+![thumbnail](thumb.png)
 
 
 
